@@ -62,16 +62,17 @@ for i in n_list:
     print(i)
 
 # How for loop actually works :
-iter_obj = iter(iterable)
+# iter_obj = iter(n_list)
 
 # Infinite loop
-while 1:
-    try:
-        # get the next item
-        element = next(iter_obj)
-        # Do something which is specify in the for loop...
-    except StopIteration:
-        # if StopIteration is raised, break from loop
-        break
+# while 1:
+#     try:
+#         # get the next item
+#         element = next(iter_obj)
+#         # Do something which is specify in the for loop...
+#         print(element)
+#     except StopIteration:
+#         # if StopIteration is raised, break from loop
+#         break
 
 #######################################################################################################################

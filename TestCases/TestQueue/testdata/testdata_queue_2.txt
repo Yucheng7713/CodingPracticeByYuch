@@ -1,0 +1,4 @@
+3
+dequeue, front, enqueue.3, enqueue.6, dequeue, rear, enqueue.9, enqueue.12, enqueue.15
+False, -1, True, True, True, 6, True, True, False
+6->9->12

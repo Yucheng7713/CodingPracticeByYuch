@@ -1,0 +1,4 @@
+5
+enqueue.1, front, enqueue.2, enqueue.3, enqueue.4
+True, 1, True, True, True
+1->2->3->4
