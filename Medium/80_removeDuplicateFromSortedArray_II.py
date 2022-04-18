@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if not nums: return 0
@@ -12,5 +14,17 @@ class Solution:
             # Otherwise the i index will stop at the third duplicate and wait for being overwrited
         return i
 
-mylist = [0,0,1,1,1,1,2,3,3]
+    def removeDuplicates_I(self, nums: List[int]) -> int:
+        d_count, anchor = 1, 0
+        for i in range(len(nums)):
+            nums[anchor] = nums[i]
+            if i > 0 and nums[i] == nums[i - 1]:
+                d_count += 1
+            else:
+                d_count = 1
+            if d_count <= 2:
+                anchor += 1
+        return anchor
+
+mylist = [1,1,1,2,2,3]
 print(Solution().removeDuplicates(mylist))

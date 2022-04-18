@@ -39,25 +39,27 @@ class Solution:
         while r_tail and r_tail.next: r_tail = r_tail.next
         return head, r_tail
 
-    def reverseBetween_II(self, head: ListNode, m: int, n: int) -> ListNode:
-        if m == n or not head or not head.next: return head
-        t1 = d = ListNode(0)
-        d.next = head
-        count = m
-        # Find the reversed sublist starting index
-        while count > 1:
-            t1 = t1.next
-            count -= 1
-        current = t1.next
-        # Start doing reverse until mth index ( we will need to do n - m times reversing )
-        count = n - m
-        while count > 0 and current.next:
-            t2 = current.next
-            current.next = current.next.next
-            t2.next = t1.next
-            t1.next = t2
-            count -= 1
-        return d.next
+    # def reverseBetween_II(self, head: ListNode, m: int, n: int) -> ListNode:
+    #     if m == n or not head or not head.next: return head
+    #     t1 = d = ListNode(0)
+    #     d.next = head
+    #     count = m
+    #     # Find the reversed sublist starting index
+    #     while count > 1:
+    #         t1 = t1.next
+    #         count -= 1
+    #     current = t1.next
+    #     # Start doing reverse until mth index ( we will need to do n - m times reversing )
+    #     count = n - m
+    #     while count > 0 and current.next:
+    #         t2 = current.next
+    #         current.next = current.next.next
+    #         t2.next = t1.next
+    #         t1.next = t2
+    #         count -= 1
+    #     return d.next
+
+
 
 mylist = LinkedList()
 mylist.addAtTail(1)
@@ -67,5 +69,5 @@ mylist.addAtTail(4)
 mylist.addAtTail(5)
 
 # mylist.head, mylist.tail = Solution().reverseList(mylist.head)
-mylist.head, mylist.tail = Solution().reverseBetween(mylist.head, 2, 4)
+mylist.head, mylist.tail = Solution_II().reverseBetween(mylist.head, 2, 4)
 print("Finish")

@@ -60,7 +60,7 @@ class Solution:
                 # current_sum - k ( there might be many current_sum - k subarray in previous array )
                 # and current_sum
                 ans += sum_map[current_sum - k]
-            # Record the new occurance of current_sum
+            # Record the new occurrance of current_sum
             sum_map[current_sum] += 1
         return ans
 

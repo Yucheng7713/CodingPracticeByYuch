@@ -1,5 +1,5 @@
 class Solution:
-    def lengthOfLongestSubstring(self):
+    def lengthOfLongestSubstring(self, s):
         s_index = max_len = 0
         str_map = dict()
         for f_index in range(len(s)):

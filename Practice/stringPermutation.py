@@ -1,3 +1,5 @@
+
+
 def stringPermutation(p_str):
     def permutation(prefix, remain):
         if not remain:

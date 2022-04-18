@@ -85,6 +85,6 @@ class LinkedList:
                 temp.next = temp.next.next
                 # If the deleted element is actually the tail
                 # then we need to update the current tail.
-                if index == self.length - 1:
+                if i == self.length - 1:
                     self.tail = temp
             self.length -= 1

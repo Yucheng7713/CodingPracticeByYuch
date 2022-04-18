@@ -1,3 +1,5 @@
+from pprint import pprint
+
 class JSONParser:
     def jsonFlatten(self, json):
         new_json = dict()
@@ -42,4 +44,4 @@ d_json['c']['g']['m'] = 17
 d_json['c']['g']['n'] = 3
 
 parser = JSONParser()
-print(parser.jsonFlatten_II(d_json))
+pprint(parser.jsonFlatten_II(d_json))

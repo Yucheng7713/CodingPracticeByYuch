@@ -1,66 +1,101 @@
+try:
+    from DataStructure.LinkedList import LinkedList
+except ImportError:
+    print("Module not found")
+
+class HashLinkedList(LinkedList):
+
+    def containKey(self, key):
+        temp = self.head
+        while temp:
+            if temp.val[0] == key:
+                return True
+            temp = temp.next
+        return False
+
+    def getValue(self, key):
+        temp = self.head
+        while temp:
+            if temp.val[0] == key:
+                return temp.val[1]
+            temp = temp.next
+        return None
+
+    def setKeyValuePair(self, key, value):
+        temp = self.head
+        while temp:
+            if temp.val[0] == key:
+                temp.val = key, value
+                break
+            temp = temp.next
+
+    def deleteKeyValuePair(self, key):
+        temp = self.head
+        delete_index = 0
+        while temp:
+            if temp.val[0] == key:
+                break
+            temp = temp.next
+            delete_index += 1
+        self.deleteAtIndex(delete_index)
+
 class HashMap:
     # Components :
-    # Array or Nested array - data structure used to store the data
-    # Hash function - function to convert key into array index
+    # Nested array or array with linked lists - data structure used to store the data
+    # Hash function (hash code) - function to convert key into array index
     # Collision handling - There are 2 ways :
         # 1 - Linear probing : if a hashed slot is occupied, move on to the next until reaching an empty slot.
         # 2 - Use a nested list for storage, keys with same hashing value get stored to the same array.
-    # Insert (Put)
-    # Search (Get)
-    # Delete
+    # Hashing   O(1)
+    # Put       O(1) amortized
+    # Get       O(1) amortized
+    # Contain   O(1) amortized
+    # Delete    O(1) amortized
 
-    STORAGE_SIZE = 100
+    def __init__(self, size):
+        self.size = size
+        self.hash_list = [HashLinkedList() for _ in range(size)]
 
-    def __init__(self):
-        self.hash_list = [[] for _ in range(self.STORAGE_SIZE)]
-
+    # For hash code we generate it by summing ASCII values of each character of the key
     def hashing(self, key):
-        return sum([ord(c) for c in key]) % self.STORAGE_SIZE
-
-    def get(self, key):
-        h_key = self.hashing(key)
-        bucket = self.hash_list[h_key]
-        for i, kv in enumerate(bucket):
-            k, v = kv
-            if k == key:
-                return v
-        return None
-
-    def put(self, key, item):
-        h_key = self.hashing(key)
-        key_exist = False
-        bucket = self.hash_list[h_key]
-        for i, kv in enumerate(bucket):
-            k, v = kv
-            if k == key:
-                key_exist = True
-                bucket[i] = (key, item)
-                break
-        if not key_exist:
-            bucket.append((key, item))
-
-    def delete(self, key):
-        h_key = self.hashing(key)
-        key_exist = False
-        bucket = self.hash_list[h_key]
-        for i, kv in enumerate(bucket):
-            k, v = kv
-            if k == key:
-                key_exist = True
-                del bucket[i]
-                print("Deleted Key {}!".format(key))
-                break
-        if not key_exist:
-            print("Key {} not found".format(key))
-
+        # return hash code as an integer
+        return sum(ord(c) for c in key) % self.size
 
     def contain(self, key):
-        if self.hash_list[self.hashing(key)]:
-            return True
-        return False
+        # return Boolean
+        hash_code = self.hashing(key)
+        hash_list = self.hash_list[hash_code]
+        return hash_list.containKey(key)
 
-my_hash_table = HashMap()
-my_hash_table.put("Steven", 24)
-my_hash_table.put("CS", 100)
-my_hash_table.put("Great", "Hello World!!!")
-print(my_hash_table.get("Great"))
+    def get(self, key):
+        # return Object
+        hash_code = self.hashing(key)
+        return self.hash_list[hash_code].getValue(key)
+
+    def put(self, key, value):
+        hash_code = self.hashing(key)
+        hash_list = self.hash_list[hash_code]
+        if hash_list.containKey(key):
+            hash_list.setKeyValuePair(key, value)
+        else:
+            hash_list.addAtTail((key, value))
+
+    def delete(self, key):
+        hash_code = self.hashing(key)
+        hash_list = self.hash_list[hash_code]
+        hash_list.deleteKeyValuePair(key)
+
+if (__name__ == '__main__'):
+    my_hash_table = HashMap(10)
+    my_hash_table.put("Steven", 24)
+    my_hash_table.put("nteveS", "Wonderful")
+    my_hash_table.put("nvtSee", "1000")
+    my_hash_table.put("CS", 100)
+    my_hash_table.put("Great", "Hello World!!!")
+    print(my_hash_table.get("Steven"))
+    print(my_hash_table.get("nteveS"))
+    print(my_hash_table.get("nvtSee"))
+    my_hash_table.delete("nteveS")
+    print(my_hash_table.get("nteveS"))
+    print(my_hash_table.get("nvtSee"))
+    print(my_hash_table.get("Steven"))

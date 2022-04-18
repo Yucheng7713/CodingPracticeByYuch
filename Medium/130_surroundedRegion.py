@@ -1,3 +1,5 @@
+
+
 class Solution:
     # DFS - Search the 'O' regions in which attach to boundaries
     # Mark them as 'V'
@@ -63,7 +65,41 @@ class Solution:
                     board[row][col] = "XO"[board[row][col] == 'V']
 
 
-board = [["O","X","X","O","X"],["X","O","O","X","O"],["X","O","X","O","X"],["O","X","O","O","O"],["X","X","O","X","O"]]
-Solution().solve_BFS(board)
-print(board)
+class Solution_B:
+    from typing import List
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        m, n = len(board), len(board[0])
+        visited, live = set(), set()
+        def dfs(r, c):
+            if 0 <= r < m and 0 <= c < n and (r, c) not in visited and board[r][c] == 'O':
+                visited.add((r, c))
+                live.add((r, c))
+                dfs(r + 1, c)
+                dfs(r - 1, c)
+                dfs(r, c + 1)
+                dfs(r, c - 1)
+        # DFS traversal, find all live 'O's
+        for i in range(n):
+            if board[0][i] == 'O':
+                dfs(0, i)
+            if board[m-1][i] == 'O':
+                dfs(m-1, i)
+        for j in range(m):
+            if board[j][0] == '0':
+                dfs(j, 0)
+            if board[j][n-1] == '0':
+                dfs(j, n-1)
+        # Do modification
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] == 'O' and (i, j) not in live:
+                    board[i][j] = 'X'
+board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+board_2 = [["X", "X", "X", "O", "X"], ["X", "X", "O", "O", "X"], ["X", "X", "O", "O", "O"], ["X", "O", "X", "X", "X"], ["X", "X", "X", "X", "O"]]
+# Solution().solve_BFS(board)
+Solution_B().solve(board_2)
+print(board_2)
 

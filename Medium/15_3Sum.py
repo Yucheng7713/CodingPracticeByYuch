@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def threeSum(self, nums):
         # Presort the list in ascending order
@@ -14,7 +16,7 @@ class Solution:
                 continue
             # Find the target number with 2 sum approach in [i+1:N] sublist
             # nums[i] + target = nums[i] + (nums[j] + nums[k]) = 0
-            # target = - nums[i] = nums[j] + nums[k] -> Find nums[i] and nums[k] without duplicates
+            # target = - nums[i] = nums[j] + nums[k] -> Find nums[j] and nums[k] without duplicates
             target = -nums[i]
             # Since the array is sorted, we can use two pointers method here
             start, end = i + 1, N - 1
@@ -43,7 +45,27 @@ class Solution:
                     start, end = start + 1, end - 1
         return triplets
 
-s = Solution()
+    def threeSum_II(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+        result = []
+        for i in range(len(nums)-2):
+            if i > 0 and nums[i] == nums[i-1]: continue
+            target = -nums[i]
+            l, r = i + 1, len(nums) - 1
+            two_sum = []
+            while l < r:
+                t = nums[l] + nums[r]
+                if t < target:
+                    l += 1
+                elif t > target:
+                    r -= 1
+                else:
+                    result.append([nums[i], nums[l], nums[r]])
+                    previous_l, previous_r = nums[l], nums[r]
+                    while l < len(nums) and nums[l] == previous_l: l += 1
+                    while r >= 0 and nums[r] == previous_r: r -= 1
+        return result
 
-nums = [-2, 0, 1, 1, 2]
-print(s.threeSum(nums))
+nums = [-1, 0, 1, 2, -1, -4]
+
+print(Solution().threeSum_II(nums))

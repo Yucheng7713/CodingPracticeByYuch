@@ -1,28 +1,19 @@
 class Solution:
     # Brute Force method (TLE)
     # Checking if the given string is palindromic or not
-    def palindromeCheck(self, s):
-        mid = len(s) // 2
-        right = mid
-        left = mid if len(s) % 2 == 1 else mid - 1
-        N = mid + 1 if len(s) % 2 == 1 else mid
-        for i in range(N):
-            if s[left] != s[right]:
-                return False
-            left -= 1
-            right += 1
-        return True
+    def palindromeCheck(self, s) -> bool:
+        return s == s[::-1]
 
     def longestPalindrome_I(self, s: str) -> str:
         longest_palstr = ""
         max_len = 0
         # Try out all possible substring and find the longest one that is palindromic
         for i in range(len(s)):
-            for j in range(len(s)):
+            for j in range(i, len(s)):
                 sub_str = s[i:j]
-                if self.palindromeCheck(sub_str) and len(sub_str) > max_len:
+                if self.palindromeCheck(sub_str) and j - i + 1 > max_len:
                     longest_palstr = sub_str
-                    max_len = len(sub_str)
+                    max_len = j - i + 1
         return longest_palstr
 
     # Dynamic Programming - Improved version of Brute Force
@@ -103,5 +94,5 @@ class Solution:
                 max_len = len(even_palin)
         return longest_palin
 
-p_str = "abcdba"
-print(Solution().palindromeCheck(p_str))
+p_str = "bababd"
+print(Solution().longestPalindrome_I(p_str))

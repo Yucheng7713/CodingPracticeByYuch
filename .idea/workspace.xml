@@ -2,70 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68571073-7c2f-46a3-9c93-0816b4ebec59" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_1_isUnique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_2_checkPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_3_URLify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_4_palindromePermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_5_oneAway.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_6_stringCompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_7_rotateMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_8_zeroMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTC_Practice/Ch1_9_stringRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/ListStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/1047_removeAllAdjacentDuplicateInString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/840_magicSquareInGrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/13_romanToInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/13_romanToInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medium/6_zigZagConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/6_zigZagConversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/HashMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/HashMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/LinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/121_bestTimeToBuyAndSellStock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/121_bestTimeToBuyAndSellStock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/122_bestTimeToBuyAndSellStock_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/122_bestTimeToBuyAndSellStock_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/125_validPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/125_validPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/283_moveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/283_moveZeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/443_stringCompression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/443_stringCompression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/448_findAllNumbersDisappearedInArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/448_findAllNumbersDisappearedInArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/53_maximumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/53_maximumSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/697_degreeOfAnArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/697_degreeOfAnArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/130_surroundedRegion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/130_surroundedRegion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/15_3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/15_3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/17_letterCombinationOfAPhoneNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/17_letterCombinationOfAPhoneNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/18_4Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/18_4Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/3_longestSubstringWithoutRepeatingCharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/3_longestSubstringWithoutRepeatingCharacter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/560_subarraySumEqualsK.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/560_subarraySumEqualsK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/5_longestPalindromicSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/5_longestPalindromicSubstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/92_reverseLinkedList_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/92_reverseLinkedList_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/checkPrime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/checkPrime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/json_flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/json_flatten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/stringMerge_I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/stringMerge_I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/stringPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/stringPermutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonObjects/MyList.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonObjects/MyList.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/HashMap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/loveMessages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/pairUsers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/347_topKFrequentElements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/json_flatten.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,105 +73,108 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Easy/852_peakIndexInAMountainArray.py" />
-        <option value="$PROJECT_DIR$/Easy/704_binarySearch.py" />
-        <option value="$PROJECT_DIR$/Easy/938_rangeSumOfBST.py" />
-        <option value="$PROJECT_DIR$/Medium/763_partitionLabels.py" />
-        <option value="$PROJECT_DIR$/Practice/alphebeticCheck.py" />
-        <option value="$PROJECT_DIR$/Easy/599_minimumIndexSumOfTwoLists.py" />
-        <option value="$PROJECT_DIR$/Medium/567_permutationInString.py" />
-        <option value="$PROJECT_DIR$/Hard/239_slidingWindowMaximum.py" />
-        <option value="$PROJECT_DIR$/Hard/76_minimumWindowSubstring.py" />
-        <option value="$PROJECT_DIR$/Hard/336_palindromePairs.py" />
-        <option value="$PROJECT_DIR$/Hard/4_medianOfSortedArray.py" />
-        <option value="$PROJECT_DIR$/Easy/784_letterCasePermutation.py" />
-        <option value="$PROJECT_DIR$/DataStructure/Queue.py" />
-        <option value="$PROJECT_DIR$/DataStructure/Stack.py" />
-        <option value="$PROJECT_DIR$/Medium/341_flattenNestedListIterator.py" />
-        <option value="$PROJECT_DIR$/Medium/418_sentenceScreenFitting.py" />
-        <option value="$PROJECT_DIR$/Easy/994_rottenOrange.py" />
-        <option value="$PROJECT_DIR$/Medium/957_prisonCellsAfterNDays.py" />
-        <option value="$PROJECT_DIR$/Medium/863_allNodesDistanceKInBinaryTree.py" />
-        <option value="$PROJECT_DIR$/Medium/289_gameOfLife.py" />
-        <option value="$PROJECT_DIR$/Medium/227_basicCalculator_II.py" />
-        <option value="$PROJECT_DIR$/Practice/json_flatten.py" />
-        <option value="$PROJECT_DIR$/Medium/987_verticalOrderTraversalOfBinaryTree.py" />
-        <option value="$PROJECT_DIR$/Medium/708_insertIntoACyclicSortedList.py" />
-        <option value="$PROJECT_DIR$/Medium/670_maximumSwap.py" />
-        <option value="$PROJECT_DIR$/PythonObjects/PyIterate.py" />
-        <option value="$PROJECT_DIR$/PythonObjects/MyList.py" />
-        <option value="$PROJECT_DIR$/Medium/417_pacificAtlanticWaterFlow.py" />
-        <option value="$PROJECT_DIR$/Easy/485_maxConsecutiveOnes.py" />
-        <option value="$PROJECT_DIR$/Medium/1004_maxConsecutiveOnes_III.py" />
-        <option value="$PROJECT_DIR$/Medium/807_maxIncreaseToKeepCitySkyline.py" />
-        <option value="$PROJECT_DIR$/Medium/593_validSquare.py" />
-        <option value="$PROJECT_DIR$/Medium/498_diagnalTraverse.py" />
-        <option value="$PROJECT_DIR$/Medium/333_largestBSTSubtree.py" />
-        <option value="$PROJECT_DIR$/Medium/797_allPathsFromSourcetoTarget.py" />
-        <option value="$PROJECT_DIR$/Easy/Contest_decreaseElementsToMakeArrayZigZag.py" />
-        <option value="$PROJECT_DIR$/Easy/1144_decreaseElementsToMakeArrayZigZag.py" />
         <option value="$PROJECT_DIR$/Medium/1146_snapShotArray.py" />
         <option value="$PROJECT_DIR$/Easy/204_countPrime.py" />
-        <option value="$PROJECT_DIR$/Practice/checkPrime.py" />
-        <option value="$PROJECT_DIR$/Practice/stringPermutation.py" />
         <option value="$PROJECT_DIR$/Medium/416_partitionEqualSubsetSum.py" />
         <option value="$PROJECT_DIR$/Medium/379_designPhoneDirectory.py" />
-        <option value="$PROJECT_DIR$/DataStructure/HashMap.py" />
-        <option value="$PROJECT_DIR$/Practice/stringMerge_I.py" />
         <option value="$PROJECT_DIR$/Practice/loveMessages.py" />
         <option value="$PROJECT_DIR$/Practice/ratioOfCommon&amp;Unique.py" />
         <option value="$PROJECT_DIR$/Medium/347_topKFrequentElements.py" />
         <option value="$PROJECT_DIR$/Practice/pairUsers.py" />
         <option value="$PROJECT_DIR$/Medium/6_zigZagConversion.py" />
         <option value="$PROJECT_DIR$/Easy/13_romanToInteger.py" />
+        <option value="$PROJECT_DIR$/DataStructure/LinkedList.py" />
+        <option value="$PROJECT_DIR$/Medium/3_longestSubstringWithoutRepeatingCharacter.py" />
+        <option value="$PROJECT_DIR$/DataStructure/Queue.py" />
+        <option value="$PROJECT_DIR$/DataStructure/Stack.py" />
+        <option value="$PROJECT_DIR$/Practice/stringMerge_I.py" />
+        <option value="$PROJECT_DIR$/Practice/stringPermutation.py" />
+        <option value="$PROJECT_DIR$/Practice/checkPrime.py" />
+        <option value="$PROJECT_DIR$/Practice/json_flatten.py" />
+        <option value="$PROJECT_DIR$/DataStructure/HashMap.py" />
+        <option value="$PROJECT_DIR$/DataStructure/Graph.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_1_isUnique.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_2_checkPermutation.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_3_URLify.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_7_rotateMatrix.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_8_zeroMatrix.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_9_stringRotation.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_4_palindromePermutation.py" />
+        <option value="$PROJECT_DIR$/Easy/283_moveZeros.py" />
+        <option value="$PROJECT_DIR$/Easy/448_findAllNumbersDisappearedInArray.py" />
+        <option value="$PROJECT_DIR$/PythonObjects/MyList.py" />
+        <option value="$PROJECT_DIR$/Easy/122_bestTimeToBuyAndSellStock_II.py" />
+        <option value="$PROJECT_DIR$/Easy/121_bestTimeToBuyAndSellStock.py" />
+        <option value="$PROJECT_DIR$/Easy/697_degreeOfAnArray.py" />
+        <option value="$PROJECT_DIR$/Easy/53_maximumSubarray.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_5_oneAway.py" />
+        <option value="$PROJECT_DIR$/Easy/443_stringCompression.py" />
+        <option value="$PROJECT_DIR$/CTC_Practice/Ch1_6_stringCompression.py" />
+        <option value="$PROJECT_DIR$/Easy/125_validPalindrome.py" />
+        <option value="$PROJECT_DIR$/Medium/5_longestPalindromicSubstring.py" />
+        <option value="$PROJECT_DIR$/Easy/1047_removeAllAdjacentDuplicateInString.py" />
+        <option value="$PROJECT_DIR$/Easy/840_magicSquareInGrid.py" />
+        <option value="$PROJECT_DIR$/Medium/15_3Sum.py" />
+        <option value="$PROJECT_DIR$/Medium/18_4Sum.py" />
+        <option value="$PROJECT_DIR$/Medium/17_letterCombinationOfAPhoneNumber.py" />
+        <option value="$PROJECT_DIR$/Medium/55_jumpGame.py" />
+        <option value="$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py" />
+        <option value="$PROJECT_DIR$/Medium/92_reverseLinkedList_II.py" />
+        <option value="$PROJECT_DIR$/Medium/130_surroundedRegion.py" />
+        <option value="$PROJECT_DIR$/Algorithm/testcases/Kruskal.py" />
+        <option value="$PROJECT_DIR$/Algorithm/testcases/kruskal_graph.txt" />
+        <option value="$PROJECT_DIR$/Algorithm/Kruskal.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
   </component>
+  <component name="ProjectId" id="21VZ6j7heOL7l2x8six0DAX2EaI" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="CodingPracticeByYuch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPracticeByYuch" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPracticeByYuch" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/CodingPracticeByYuch" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="CodingPracticeByYuch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPracticeByYuch" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPracticeByYuch" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/CodingPracticeByYuch" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Algorithm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="CodingPracticeByYuch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPracticeByYuch" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPracticeByYuch" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/CodingPracticeByYuch" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Algorithm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testcases" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="CodingPracticeByYuch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPracticeByYuch" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPracticeByYuch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPracticeByYuch" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonObjects" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingPracticeByYuch" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/CodingPracticeByYuch" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructure" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -201,27 +188,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm" />
       <recent name="$PROJECT_DIR$/LogParsing" />
       <recent name="$PROJECT_DIR$/Practice" />
       <recent name="$PROJECT_DIR$/Algorithm/testcases" />
-      <recent name="$PROJECT_DIR$/Algorithm" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.pairUsers">
-    <configuration name="347_topKFrequentElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest for test_queue.testQueueOperation">
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,100 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/347_topKFrequentElements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loveMessages" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/loveMessages.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pairUsers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/pairUsers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ratioOfCommon&amp;Unique" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/ratioOfCommon&amp;Unique.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stringMerge_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/stringMerge_I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,23 +232,120 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for QueueTest.QueueTest.test_TestSuite" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;QueueTest.QueueTest.test_TestSuite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for QueueTest.QueueTest.test_queueOperation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;QueueTest.QueueTest.test_queueOperation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for SampleUnitTest.TestAcyclic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SampleUnitTest.TestAcyclic&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.QueueTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.QueueTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_queue.testQueueOperation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_queue.testQueueOperation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in /Users/yuchenghsieh/workspace/python-workspace/CodingPracticeByYuch/TestCases/QueueTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/QueueTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.stringMerge_I" />
-      <item itemvalue="Python.347_topKFrequentElements" />
-      <item itemvalue="Python.loveMessages" />
-      <item itemvalue="Python.ratioOfCommon&amp;Unique" />
-      <item itemvalue="Python.pairUsers" />
+      <item itemvalue="Python tests.pytest for QueueTest.QueueTest.test_queueOperation" />
+      <item itemvalue="Python tests.pytest for QueueTest.QueueTest.test_TestSuite" />
+      <item itemvalue="Python.Queue" />
+      <item itemvalue="Python tests.pytest in /Users/yuchenghsieh/workspace/python-workspace/CodingPracticeByYuch/TestCases/QueueTest.py" />
+      <item itemvalue="Python tests.pytest for test_queue.testQueueOperation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pairUsers" />
-        <item itemvalue="Python.347_topKFrequentElements" />
-        <item itemvalue="Python.ratioOfCommon&amp;Unique" />
-        <item itemvalue="Python.loveMessages" />
-        <item itemvalue="Python.stringMerge_I" />
+        <item itemvalue="Python tests.pytest for test_queue.testQueueOperation" />
+        <item itemvalue="Python.Queue" />
+        <item itemvalue="Python tests.pytest for QueueTest.QueueTest.test_TestSuite" />
+        <item itemvalue="Python tests.pytest in /Users/yuchenghsieh/workspace/python-workspace/CodingPracticeByYuch/TestCases/QueueTest.py" />
+        <item itemvalue="Python tests.pytest for QueueTest.QueueTest.test_queueOperation" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -381,33 +364,57 @@
       <workItem from="1564122486012" duration="22389000" />
       <workItem from="1564954057021" duration="9849000" />
       <workItem from="1565042313965" duration="12000" />
-      <workItem from="1565064644555" duration="2127000" />
+      <workItem from="1565064644555" duration="9523000" />
+      <workItem from="1567009592434" duration="3048000" />
+      <workItem from="1567015671426" duration="168000" />
+      <workItem from="1567016904147" duration="9248000" />
+      <workItem from="1567312007708" duration="374000" />
+      <workItem from="1567312916704" duration="1508000" />
+      <workItem from="1568139201688" duration="3036000" />
+      <workItem from="1568666819188" duration="10032000" />
+      <workItem from="1572432076660" duration="31000" />
+      <workItem from="1572432110639" duration="926000" />
+      <workItem from="1572611332543" duration="138000" />
+      <workItem from="1572611561996" duration="3399000" />
+      <workItem from="1573657262820" duration="5475000" />
+      <workItem from="1575161996489" duration="1787000" />
+      <workItem from="1602508582766" duration="7261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85414000" />
+    <option name="totallyTimeSpent" value="139241000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22174536" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32942554" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.35407725" weight="0.42409638" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5414878" weight="0.2544529" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.6459227" side_tool="true" weight="0.42409638" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.64806867" side_tool="true" weight="0.34351146" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.45851216" side_tool="true" weight="0.31683168" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" sideWeight="0.49785408" weight="0.32891566" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
@@ -418,6 +425,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,7 +457,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Easy/443_stringCompression.py</url>
-          <line>3</line>
+          <line>5</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -622,16 +641,6 @@
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Medium/15_3Sum.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Medium/18_4Sum.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Medium/714_bestTimeToBuy&amp;SellStockWithTransactionFee.py</url>
           <line>7</line>
           <option name="timeStamp" value="95" />
@@ -658,7 +667,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Medium/92_reverseLinkedList_II.py</url>
-          <line>69</line>
+          <line>71</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -735,11 +744,6 @@
           <url>file://$PROJECT_DIR$/Medium/286_wallsAndGates.py</url>
           <line>67</line>
           <option name="timeStamp" value="151" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Medium/516_longestPalindromicSubsequence.py</url>
@@ -902,11 +906,6 @@
           <option name="timeStamp" value="263" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Practice/json_flatten.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="265" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Medium/418_sentenceScreenFitting.py</url>
           <line>4</line>
           <option name="timeStamp" value="266" />
@@ -947,11 +946,6 @@
           <option name="timeStamp" value="281" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Practice/checkPrime.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="282" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Medium/416_partitionEqualSubsetSum.py</url>
           <line>66</line>
           <option name="timeStamp" value="283" />
@@ -960,6 +954,56 @@
           <url>file://$PROJECT_DIR$/Practice/pairUsers.py</url>
           <line>17</line>
           <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Medium/3_longestSubstringWithoutRepeatingCharacter.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DataStructure/Graph.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Easy/125_validPalindrome.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Medium/18_4Sum.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Medium/18_4Sum.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Medium/17_letterCombinationOfAPhoneNumber.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice/cycleDetectProblem.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice/test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice/my_solution.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="321" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -971,288 +1015,205 @@
       </default-breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Leetcode$227_basicCalculator_II.coverage" NAME="227_basicCalculator_II Coverage Results" MODIFIED="1564084172993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$670_maximumSwap.coverage" NAME="670_maximumSwap Coverage Results" MODIFIED="1564433735154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$418_sentenceScreenFitting.coverage" NAME="418_sentenceScreenFitting Coverage Results" MODIFIED="1564013004774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$1002_findCommonCharacters.coverage" NAME="1002_findCommonCharacters Coverage Results" MODIFIED="1562540460812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
-    <SUITE FILE_PATH="coverage/Leetcode$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1564002865765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure" />
-    <SUITE FILE_PATH="coverage/Leetcode$Pattern.coverage" NAME="Pattern Coverage Results" MODIFIED="1564676143497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$347_topKFrequentElements.coverage" NAME="347_topKFrequentElements Coverage Results" MODIFIED="1565032083086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$289_gameOfLife.coverage" NAME="289_gameOfLife Coverage Results" MODIFIED="1564080835884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$863_allNodesDistanceKInBinaryTree.coverage" NAME="863_allNodesDistanceKInBinaryTree Coverage Results" MODIFIED="1564030461549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$json_flatten.coverage" NAME="json_flatten Coverage Results" MODIFIED="1564087262437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$stringMerge_I.coverage" NAME="stringMerge_I Coverage Results" MODIFIED="1564980963027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$498_diagnalTraverse.coverage" NAME="498_diagnalTraverse Coverage Results" MODIFIED="1564676755311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$checkPrime.coverage" NAME="checkPrime Coverage Results" MODIFIED="1564896727002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$336_palindromePairs.coverage" NAME="336_palindromePairs Coverage Results" MODIFIED="1563814235844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard" />
-    <SUITE FILE_PATH="coverage/Leetcode$416_partitionEqualSubsetSum.coverage" NAME="416_partitionEqualSubsetSum Coverage Results" MODIFIED="1564945428870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$204_countPrime.coverage" NAME="204_countPrime Coverage Results" MODIFIED="1564896447831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$loveMessages.coverage" NAME="loveMessages Coverage Results" MODIFIED="1565025367458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$alphebeticCheck.coverage" NAME="alphebeticCheck Coverage Results" MODIFIED="1563396830370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$1144_decreaseElementsToMakeArrayZigZag.coverage" NAME="1144_decreaseElementsToMakeArrayZigZag Coverage Results" MODIFIED="1564890060509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$ratioOfCommon_Unique.coverage" NAME="ratioOfCommon&amp;Unique Coverage Results" MODIFIED="1565026218648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$pairUsers.coverage" NAME="pairUsers Coverage Results" MODIFIED="1565038898572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$239_slidingWindowMaximum.coverage" NAME="239_slidingWindowMaximum Coverage Results" MODIFIED="1563745926132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard" />
-    <SUITE FILE_PATH="coverage/Leetcode$417_pacificAtlanticWaterFlow.coverage" NAME="417_pacificAtlanticWaterFlow Coverage Results" MODIFIED="1564443570122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/CodingPracticeByYuch$HashMap.coverage" NAME="HashMap Coverage Results" MODIFIED="1564978151303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructure" />
-    <SUITE FILE_PATH="coverage/Leetcode$4_medianOfSortedArray.coverage" NAME="4_medianOfSortedArray Coverage Results" MODIFIED="1563925988910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard" />
-    <SUITE FILE_PATH="coverage/Leetcode$290_wordPattern.coverage" NAME="290_wordPattern Coverage Results" MODIFIED="1562139681215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
-    <SUITE FILE_PATH="coverage/Leetcode$763_partitionLabels.coverage" NAME="763_partitionLabels Coverage Results" MODIFIED="1562884146056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$957_prisonCellsAfterNDays.coverage" NAME="957_prisonCellsAfterNDays Coverage Results" MODIFIED="1564021511832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$PyIterate.coverage" NAME="PyIterate Coverage Results" MODIFIED="1564439329427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonObjects" />
-    <SUITE FILE_PATH="coverage/Leetcode$567_permutationInString.coverage" NAME="567_permutationInString Coverage Results" MODIFIED="1563487296173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$708_insertIntoACyclicSortedList.coverage" NAME="708_insertIntoACyclicSortedList Coverage Results" MODIFIED="1564421300228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-    <SUITE FILE_PATH="coverage/Leetcode$stringPermutation.coverage" NAME="stringPermutation Coverage Results" MODIFIED="1564899502455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/Leetcode$1010_pairsOfSongsWithTotalDurationsDivisibleBy60.coverage" NAME="1010_pairsOfSongsWithTotalDurationsDivisibleBy60 Coverage Results" MODIFIED="1562730475272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
-    <SUITE FILE_PATH="coverage/Leetcode$76_minimumWindowSubstring.coverage" NAME="76_minimumWindowSubstring Coverage Results" MODIFIED="1563776454638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard" />
-    <SUITE FILE_PATH="coverage/Leetcode$987_verticalOrderTraversalOfBinaryTree.coverage" NAME="987_verticalOrderTraversalOfBinaryTree Coverage Results" MODIFIED="1564417527623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/QuickSort.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/Graph.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/Queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/28_implementStrStr.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogParsing/alphebeticCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/987_verticalOrderTraversalOfBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        <state relative-caret-position="345">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#303#601#0" />
+            <element signature="e#693#975#0" />
+            <element signature="e#1065#1373#0" />
+            <element signature="e#1459#2093#0" />
+            <element signature="e#2178#3005#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/708_insertIntoACyclicSortedList.py">
+    <entry file="file://$PROJECT_DIR$/DataStructure/ListQueue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/670_maximumSwap.py">
+    <entry file="file://$PROJECT_DIR$/Practice/json_flatten.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/593_validSquare.py">
+    <entry file="file://$PROJECT_DIR$/DataStructure/ListStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/807_maxIncreaseToKeepCitySkyline.py">
+    <entry file="file://$PROJECT_DIR$/DataStructure/HashMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3832">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/283_moveZeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/561_arrayPatition_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/448_findAllNumbersDisappearedInArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_1_isUnique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonObjects/MyList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/122_bestTimeToBuyAndSellStock_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/121_bestTimeToBuyAndSellStock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/1004_maxConsecutiveOnes_III.py">
+    <entry file="file://$PROJECT_DIR$/Easy/697_degreeOfAnArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/485_maxConsecutiveOnes.py">
+    <entry file="file://$PROJECT_DIR$/Easy/53_maximumSubarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_2_checkPermutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_3_URLify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
           <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/498_diagnalTraverse.py">
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_4_palindromePermutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/333_largestBSTSubtree.py">
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_5_oneAway.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+        <state relative-caret-position="465">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/417_pacificAtlanticWaterFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="43" lean-forward="true" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/204_countPrime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/1144_decreaseElementsToMakeArrayZigZag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/1146_snapShotArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/checkPrime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/416_partitionEqualSubsetSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="53" column="48" lean-forward="true" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/379_designPhoneDirectory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/797_allPathsFromSourcetoTarget.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/knapSack1-0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/KagerRandomization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/CustomedSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/countInversion.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/stringPermutation.py">
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_6_stringCompression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonObjects/MyList.py">
+    <entry file="file://$PROJECT_DIR$/Easy/443_stringCompression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        <state relative-caret-position="144">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/362_designHitCounter.py">
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_8_zeroMatrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_9_stringRotation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTC_Practice/Ch1_7_rotateMatrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/5_longestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="1425">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/125_validPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/1010_pairsOfSongsWithTotalDurationsDivisibleBy60.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/pairUsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1263,79 +1224,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/stringMerge_I.py">
+    <entry file="file://$PROJECT_DIR$/Practice/stringPermutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+    <entry file="file://$PROJECT_DIR$/Medium/15_3Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        <state relative-caret-position="810">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/HashMap.py">
+    <entry file="file://$PROJECT_DIR$/Medium/18_4Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        <state relative-caret-position="1650">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/loveMessages.py">
+    <entry file="file://$PROJECT_DIR$/Easy/840_magicSquareInGrid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/6_zigZagConversion.py">
+    <entry file="file://$PROJECT_DIR$/Easy/1047_removeAllAdjacentDuplicateInString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/13_romanToInteger.py">
+    <entry file="file://$PROJECT_DIR$/Medium/17_letterCombinationOfAPhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="574">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
+    <entry file="file://$PROJECT_DIR$/Medium/92_reverseLinkedList_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-520">
-          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        <state relative-caret-position="626">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/json_flatten.py">
+    <entry file="file://$PROJECT_DIR$/Medium/24_swapNodesInPairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="285">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/347_topKFrequentElements.py">
+    <entry file="file://$PROJECT_DIR$/Medium/80_removeDuplicateFromSortedArray_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/55_jumpGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogParsing/alphebeticCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/130_surroundedRegion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kagar_MinCut_0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/QuickSort.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/KagerRandomization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/pairUsers.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/CustomedSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/countInversion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/testcases/kruskal_graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/Kruskal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

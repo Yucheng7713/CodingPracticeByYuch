@@ -1,19 +1,26 @@
 from collections import Counter
 
 class Solution:
+    # Find the degree of the given array : the maximum occurencce elements
+    # Find the minimum subarray which has the same degree as the given array
+    # !! There is the case that multiple numbers yield the same degree
+    # !! Check the first and last occurence of each element
 
-    def findShortestSubArray(self, nums):
-        first, last = {}, {}
-        for i, v in enumerate(nums):
-            first.setdefault(v, i)
-            last[v] = i
-        print(first)
-        print(last)
-        d_col = Counter(nums)
-        max_degree = max(d_col.values())
+    # Time complexity : O(n)
+    # Space complexity : O(n)
+    def findShortestSubArray(self, nums: List[int]) -> int:
+        d_list = Counter(nums)
+        degree = max(d_list.values())
+        ans, first, last = len(nums), {}, {}
+        for i, n in enumerate(nums):
+            if n not in first:
+                first[n] = i
+            last[n] = i
+        for n, d in d_list.items():
+            if d == degree:
+                if last[n] - first[n] < ans:
+                    ans = last[n] - first[n] + 1
+        return ans
 
-        return min(last[i] - first[i] + 1 for i, v in d_col.items() if v == max_degree)
-
-s = Solution()
 d_array = [1, 2, 2, 3, 1]
-print(s.findShortestSubArray(d_array))
+print(Solution().findShortestSubArray(d_array))

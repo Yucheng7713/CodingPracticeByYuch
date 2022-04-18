@@ -11,6 +11,16 @@ class Solution:
                 max_profit = p - min_price
         return max_profit
 
+    def maxProfit_II(self, prices: List[int]) -> int:
+        current_min = float('inf')
+        max_profit = 0
+        for i in range(len(prices)):
+            if prices[i] < current_min:
+                current_min = prices[i]
+            if prices[i] - current_min > max_profit:
+                max_profit = prices[i] - current_min
+        return max_profit
+
 s = Solution()
 stocks = [7,6,4,3,1]
 print(s.maxProfit(stocks))

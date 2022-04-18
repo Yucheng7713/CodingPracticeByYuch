@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     # For N Sum method :
     # Parameters include start index of sublist, list, current target,
@@ -49,5 +51,64 @@ class Solution:
         self.nSum(0, nums, 4, target, [], results)
         return results
 
-nums = [1, 0, -1, 0, -2, 2]
-print(Solution().fourSum(nums, 0))
+    def fourSum_II(self, nums: List[int], target: int) -> List[List[int]]:
+        def threeSum(nums: List[int], target: int) -> List[List[int]]:
+            list_3sum = []
+            for i in range(len(nums) - 2):
+                if i > 0 and nums[i] == nums[i - 1]: continue
+                s_target = target - nums[i]
+                l, r = i + 1, len(nums) - 1
+                while l < r:
+                    two_sum = nums[l] + nums[r]
+                    if two_sum > s_target:
+                        r -= 1
+                    elif two_sum < s_target:
+                        l += 1
+                    else:
+                        list_3sum.append([nums[i], nums[l], nums[r]])
+                        previous_l, previous_r = nums[l], nums[r]
+                        while l < len(nums) and previous_l == nums[l]: l += 1
+                        while r >= 0 and previous_r == nums[r]: r -= 1
+            return list_3sum
+
+        nums.sort()
+        list_4sum = []
+        for i in range(len(nums) - 3):
+            if i > 0 and nums[i] == nums[i-1]: continue
+            list_3sum = threeSum(nums[i + 1:], target - nums[i])
+            if list_3sum:
+                for l in list_3sum:
+                    list_4sum.append([nums[i]] + l)
+        return list_4sum
+
+
+class Solution_test:
+    def nSum(self, i, nums, n, target, comb, result):
+        if len(nums) - i + 1 < n or target < nums[i] * n or target > nums[-1] * n:
+            return
+        if n == 2:
+            l, r = i, len(nums) - 1
+            while l < r:
+                two_sum = nums[l] + nums[r]
+                if two_sum > target:
+                    r -= 1
+                elif two_sum < target:
+                    l += 1
+                else:
+                    result.append(comb + [nums[l], nums[r]])
+                    previous_l, previous_r = nums[l], nums[r]
+                    while l < len(nums) and previous_l == nums[l]: l += 1
+                    while r >= 0 and previous_r == nums[r]: r -= 1
+        else:
+            for j in range(i, len(nums)):
+                if j > 0 and nums[j - 1] == nums[j]: continue
+                self.nSum(j + 1, nums, n - 1, target - nums[j], comb + [nums[j]], result)
+
+    def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+        nums.sort()
+        result = []
+        self.nSum(0, nums, 4, target, [], result)
+        return result
+
+nums = [0,0,0,0]
+print(Solution_test().fourSum(nums, 0))

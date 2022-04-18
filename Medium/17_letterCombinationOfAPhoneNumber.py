@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def letterCombinations(self, digits):
         digitMap = {
@@ -46,3 +48,29 @@ class Solution:
         result = []
         allCombinations(digits, "", result)
         return result
+
+class Solution_II:
+    keypad = {
+            '2':['a','b','c'],
+            '3':['d','e','f'],
+            '4':['g','h','i'],
+            '5':['j','k','l'],
+            '6':['m','n','o'],
+            '7':['p','q','r','s'],
+            '8':['t','u','v'],
+            '9':['w','x','y','z']
+    }
+    def letterCombinations(self, digits: str) -> List[str]:
+        if not digits:
+            return []
+        if len(digits) == 1:
+            return self.keypad[digits[0]]
+        result = []
+        for i in range(len(digits)):
+            letter_combins = self.letterCombinations(digits[i+1:])
+            for letter in self.keypad[digits[i]]:
+                for combins in letter_combins:
+                    result.append(letter + combins)
+        return result
+
+print(Solution_II().letterCombinations("234"))
